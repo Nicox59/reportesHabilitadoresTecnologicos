@@ -1,8 +1,10 @@
 <h1> Documentación</h1>
  
 1-	Pinchar la opción Libro de calificaciones
-    <img src="https://lh3.googleusercontent.com/pw/AP1GczO8ANmUiPuBRxgJwmfwm2Hj6Sx9hetDtfttaNlmaIDko0126H9PO0KEyEdOi23x8j9hT8V-ySkqf8FJn0A4rUmPRzAQfCOWT5Uu1GU-6xYoeEhQ-k2zOuFeMCI-PKBY-cMI95ltNxYp40VKFLJvNMV1=w598-h174-s-no-gm" alt="Vista previa" width="600">
-  </a>
+<p align="center">
+   <img src="https://lh3.googleusercontent.com/pw/AP1GczN43aea-KWNAmXGox0yU9BcLwb8WKb5RKQEXOjgH5yPneOSSUBf4ngt-iA2uP8Oq79tuJLCGQpmPhizFwmLxXoUNjQztTvJ58XCfC74BdHY2MRwTqoKVtcb0X3K5f6QDx7PIRh28i3mvzviHS4rMHig=w598-h259-s-no-gm?authuser=0" alt="Vista previa" width="600">
+</p>
+
 
 
 2-	Pinchar la opción descargar libro de calificaciones
