@@ -2,7 +2,7 @@
  
 1-	Pinchar la opción Libro de calificaciones
 
-![Descripción alternativa](LeerArchivos/Imagenes/1.jpg))
+![Descripción de la imagen](LeerArchivos/Imagenes/1.jpg)
 
 2-	Pinchar la opción descargar libro de calificaciones
 
