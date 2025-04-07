@@ -3,10 +3,10 @@
 1-	Pinchar la opción Libro de calificaciones
 
 <p align="center">
-  <a href="ttaNlmaIDko0126H9PO0KEyEdOi23x8j9hT8V-ySkqf8FJn0A4rUmPRzAQfCOWT5Uu1GU-6xYoeEhQ-k2zOuFeMCI-PKBY-cMI95ltNxYp40VKFLJvNMV1=w598-h174-s-no-gm" target="_blank">
+  <a href="https://lh3.googleusercontent.com/pw/AP1GczO8ANmUiPuBRxgJwmfwm2Hj6Sx9hetDtfttaNlmaIDko0126H9PO0KEyEdOi23x8j9hT8V-ySkqf8FJn0A4rUmPRzAQfCOWT5Uu1GU-6xYoeEhQ-k2zOuFeMCI-PKBY-cMI95ltNxYp40VKFLJvNMV1=w598-h174-s-no-gm" target="_blank">
+    <img src="LeerArchivos/Imagenes/1.jpg" alt="Vista previa" width="600">
   </a>
 </p>
-
 
 
 2-	Pinchar la opción descargar libro de calificaciones
