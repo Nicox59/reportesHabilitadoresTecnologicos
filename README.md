@@ -1,6 +1,8 @@
 <h1> Documentación</h1>
  
 1-	Pinchar la opción Libro de calificaciones
+
+
 <img src="https://lh3.googleusercontent.com/pw/AP1GczN43aea-KWNAmXGox0yU9BcLwb8WKb5RKQEXOjgH5yPneOSSUBf4ngt-iA2uP8Oq79tuJLCGQpmPhizFwmLxXoUNjQztTvJ58XCfC74BdHY2MRwTqoKVtcb0X3K5f6QDx7PIRh28i3mvzviHS4rMHig=w598-h259-s-no-gm?authuser=0">
 
 
