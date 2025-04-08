@@ -10,7 +10,7 @@
 2-	Pinchar la opción descargar libro de calificaciones
 
 
-![Descripción alternativa](LeerArchivos/Imagenes/2.jpg))
+<img src="https://lh3.googleusercontent.com/pw/AP1GczNWTDoHsq9B7IgWM1Wg1GKk1Zy9-rnE1oFIxGlvOQisqRk8aRK9UsdU6lvtA0IZu3WcMD4Cx4Iecrfb9l5ADpk209rYUIk6mNwMAZKVEvbgyQSHqfmXea6n8z_rp_ezA6Smr_R4oRtyfkaETRxxrztY=w598-h174-s-no-gm?authuser=0">
 
 
 
@@ -18,4 +18,4 @@
 
 3-	En el apartado de Detalles del registro selecciona solo los habilitadores tecnológicos (5 cuestionarios) y en la opción de Tipo de archivo seleccionar la opción Valores separados por coma (.csv)
 
-![Descripción alternativa](LeerArchivos/Imagenes/3.jpg))
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOtZpySaWJ7KAmWXQ0Sil8armR5MJFnYEr59s6humkndHy-uNwfC29At3a0Q0xKdnm0lOCV6mnuzKiMwY1Gb3JuunuD1pn_FauoAgvA8YXkOjVLZq40aqoJ42w8mUaoEJMt8V9nvO5WJyiqE9QNsKC2=w398-h682-s-no-gm?authuser=0">
