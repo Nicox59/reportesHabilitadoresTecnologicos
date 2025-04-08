@@ -1,26 +1,5 @@
 <h1> Documentación</h1>
  
-1-	Pinchar la opción Libro de calificaciones
-
-
-<img src="https://lh3.googleusercontent.com/pw/AP1GczN43aea-KWNAmXGox0yU9BcLwb8WKb5RKQEXOjgH5yPneOSSUBf4ngt-iA2uP8Oq79tuJLCGQpmPhizFwmLxXoUNjQztTvJ58XCfC74BdHY2MRwTqoKVtcb0X3K5f6QDx7PIRh28i3mvzviHS4rMHig=w598-h259-s-no-gm?authuser=0">
-
-
-
-2-	Pinchar la opción descargar libro de calificaciones
-
-
-<img src="https://lh3.googleusercontent.com/pw/AP1GczNWTDoHsq9B7IgWM1Wg1GKk1Zy9-rnE1oFIxGlvOQisqRk8aRK9UsdU6lvtA0IZu3WcMD4Cx4Iecrfb9l5ADpk209rYUIk6mNwMAZKVEvbgyQSHqfmXea6n8z_rp_ezA6Smr_R4oRtyfkaETRxxrztY=w598-h174-s-no-gm?authuser=0">
-
-
-
-
-
-3-	En el apartado de Detalles del registro selecciona solo los habilitadores tecnológicos (5 cuestionarios) y en la opción de Tipo de archivo seleccionar la opción Valores separados por coma (.csv)
-
-<img src="https://lh3.googleusercontent.com/pw/AP1GczOtZpySaWJ7KAmWXQ0Sil8armR5MJFnYEr59s6humkndHy-uNwfC29At3a0Q0xKdnm0lOCV6mnuzKiMwY1Gb3JuunuD1pn_FauoAgvA8YXkOjVLZq40aqoJ42w8mUaoEJMt8V9nvO5WJyiqE9QNsKC2=w398-h682-s-no-gm?authuser=0">
-
-
 📊 Leer Archivos
 
 Este proyecto en Python automatiza el procesamiento de archivos CSV para generar reportes en formato Excel. Se extrae información clave desde los nombres y rutas de los archivos, y se crea un consolidado con un resumen por carrera, facilitando la evaluación del estado de habilitación de estudiantes.
@@ -71,7 +50,7 @@ Los archivos CSV deben tener nombres estructurados que permitan identificar la c
 
 Instala las dependencias:
 
-- pip install pandas openpyxl
+- pip install -r requirements.txt
 
 Ejecuta el script:
 
@@ -117,3 +96,24 @@ Al finalizar, se mostrarán:
 
 - Las celdas de resumen tienen bordes aplicados para mejor presentación.
 
+<h1> Descargar archivos de blackboard</h1>
+
+1-	Pinchar la opción Libro de calificaciones
+
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczN43aea-KWNAmXGox0yU9BcLwb8WKb5RKQEXOjgH5yPneOSSUBf4ngt-iA2uP8Oq79tuJLCGQpmPhizFwmLxXoUNjQztTvJ58XCfC74BdHY2MRwTqoKVtcb0X3K5f6QDx7PIRh28i3mvzviHS4rMHig=w598-h259-s-no-gm?authuser=0">
+
+
+
+2-	Pinchar la opción descargar libro de calificaciones
+
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczNWTDoHsq9B7IgWM1Wg1GKk1Zy9-rnE1oFIxGlvOQisqRk8aRK9UsdU6lvtA0IZu3WcMD4Cx4Iecrfb9l5ADpk209rYUIk6mNwMAZKVEvbgyQSHqfmXea6n8z_rp_ezA6Smr_R4oRtyfkaETRxxrztY=w598-h174-s-no-gm?authuser=0">
+
+
+
+
+
+3-	En el apartado de Detalles del registro selecciona solo los habilitadores tecnológicos (5 cuestionarios) y en la opción de Tipo de archivo seleccionar la opción Valores separados por coma (.csv)
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOtZpySaWJ7KAmWXQ0Sil8armR5MJFnYEr59s6humkndHy-uNwfC29At3a0Q0xKdnm0lOCV6mnuzKiMwY1Gb3JuunuD1pn_FauoAgvA8YXkOjVLZq40aqoJ42w8mUaoEJMt8V9nvO5WJyiqE9QNsKC2=w398-h682-s-no-gm?authuser=0">
